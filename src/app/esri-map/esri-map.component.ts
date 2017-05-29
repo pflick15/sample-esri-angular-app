@@ -71,7 +71,7 @@ export class EsriMapComponent implements OnInit {
 
     
   }
-
+/*
  createGpsPoint(lat:number, long:number){
 
           // First create a point geometry (this is the location of the Titanic)
@@ -79,6 +79,6 @@ export class EsriMapComponent implements OnInit {
       this.point.longitude = -81.4;
       this.view.graphics.addMany([pointGraphic]);
 
- }
+ }*/
 
 }
